@@ -15,3 +15,5 @@ As for other things, sorry for my poor memory
 0111 昨晚我就想说，Git貌似就与工作记录是同一个用法，只是再拿起来会用点时间，即便是基础的用法
 但所谓用点时间，其实并不困难
 现今15.14，这些东西已是so pleasant
+了解到Git与Shell是如此相通，解开某结，而前期那些尝试都没接触至此，separetely
+How can i edit files directly via git, maybe una problema no muy dificil 
